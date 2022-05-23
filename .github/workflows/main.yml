@@ -7,8 +7,8 @@ on:
     branches: [ main ]
 
 env:
-  APP_NAME_FRONTEND: ic-fe-2
-  APP_NAME_BACKEND: ic-be-2
+  APP_NAME_FRONTEND: front-end-walle-test
+  APP_NAME_BACKEND: back-end-walle-test
 
 jobs:
 
